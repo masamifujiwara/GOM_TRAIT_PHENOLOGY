@@ -19,21 +19,36 @@ Address: 534 John Kimbrough Blvd, College Station, TX 77843-2258, USA
 Email: fujiwara@tamu.edu 
 ________________________________________
 File list (files found within DataS1.zip)
+
 a_GAM_ANALYSIS.R
+
 b_extractExplanatoryVars.R
+
 b_scaling_factor.R
+
 c_ModelSelection.R
+
 d_comparisons.R
+
 e_plotpatternfigures.R
+
 f_plotFigurebySpeciesv.R
 
+
 The following data will be available upon request.
+
 DATA.Rdata
+
 Demography.Rdata
+
 ExpVars.rdata
+
 SCALE_FACTORS_S.Rdata
+
 STATION.Rdata
+
 TPWD.Rdata
+
 
 Description
 
