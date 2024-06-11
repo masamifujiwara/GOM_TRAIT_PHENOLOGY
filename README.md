@@ -1,12 +1,9 @@
 # GOM_TRAIT_PHENOLOGY
 The analysis of GOM Fish Trait and Phenology 
-JOURNAL PUBLICATION CITATION: 
-Authors:  
-Masami Fujiwara, Fiala Emiko-Mae Bumpers, Milton Torres Ceron, Fernando Martinez-Andrade
-Manuscript title:
-Demographic traits and phenology of coastal fishes experiencing tropicalization under climate change
-Journal name: 
-Ecology
+
+If you use this code, please cite our paper:
+Fujiwara, M., A. Simpson, M. Torres‐Ceron, and F. Martinez‐Andrade. 2022. Life‐history traits and temporal patterns in the incidence of coastal fishes experiencing tropicalization. Ecosphere 13, <10.1002/ecs2.4188>.
+
 ________________________________________
 Data S1
 
